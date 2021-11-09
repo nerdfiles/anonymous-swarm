@@ -1,7 +1,7 @@
 # Anonymous Swarm
 
 Academics tend to privatize forms of freedom, which are the ecologies of 
-knowledge. The goal is this project is to set up autonomous monitoring 
+knowledge. The goal of this project is to set up autonomous monitoring 
 agents to systematically discover and confute the claims made by 
 academics whose theories fall radically out of sort with the commons.
 
