@@ -19,3 +19,7 @@ people given lifeways of the commons, which must be protected from
 (Dwayne Tunstall), largely continually re-founded in the research of
 "propositional attitude psychology."
 
+## Motivation
+
+See https://twitter.com/chron/status/1458093215274475535 then my earlier 
+tweetstorm https://twitter.com/holoentropic/status/1456707054006120458
